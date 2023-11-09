@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZoeLaidebug
 - 👀 I’m interested in creating useful solutions to get things done.
 - 🌱 I’m currently learning Applied computing.
-- 💞️ I’m looking to collaborate on creating interesting tools to make life easier. 
+- 💞️ I’m looking to collaborate on creating interesting tools to make life easier!
 
 <!---
 ZoeLaidebug/ZoeLaidebug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
